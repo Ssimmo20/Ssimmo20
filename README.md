@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ssimmo20
+- 👋 Hi, I’m Samantha Simmons @Ssimmo20
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I have certificates in JavaScript, HTML/CSS, and Basic Programing. I'm currently learning React
 - 📫 How to reach me: coachsam1998@gmail.com or 470-602-3096
 - 😄 Pronouns: She/Her/They/Them
 - ⚡ Fun fact: I was a soccer coach before I decided to learn how to code!
